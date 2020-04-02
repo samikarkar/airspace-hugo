@@ -1,6 +1,11 @@
 ---
-title: "Our Project"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Our Project
+description: this is meta description
+bg_image: images/featue-bg.jpg
+menu:
+  footer:
+    name: Project
+    URL: project
+    weight: 2
+
 ---
