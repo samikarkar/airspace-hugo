@@ -14,12 +14,14 @@ about:
   title: Bio
   description: 'Ce que nous aimons par dessus tout : modéliser tout ce qui nous tombe
     sous la main!'
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  content: Docteur en Acoustique de l'Université d'Aix-Marseille, Sami Karkar a une
+    dizaine d'année d'expérience en laboratoire de recherche, sur des sujets aussi
+    divers que la physique des instruments de musique, l'électro-acoustique, l'acoustqiue
+    des salles, le contrôle des vibrations par matériaux intelligents, et les systèmes
+    intelligents à base de méta-matériaux programmables, ou encore la physique de
+    l'atmosphère. Il a travaillé au LMA (CNRS, Marseille), au LSCE (CEA, Saclay),
+    au LTS2 (EPF-Lausanne, Suisse), et au LTDS (Centrale Lyon). Il a également collaboré
+    avec de nombreuses équipes, en France comme à l'international.
   image: images/wrapper-img.png
 portfolio:
   enable: true
