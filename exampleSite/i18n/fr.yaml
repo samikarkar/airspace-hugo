@@ -1,13 +1,14 @@
+---
 - id: last_update
-  translation: Last updated
+  translation: Dernière mise à jour
 - id: phone
-  translation: Phone
+  translation: Tél.
 - id: email
   translation: Email
 - id: location
-  translation: Location
+  translation: Adresse
 - id: buy_now
-  translation: Buy Now
+  translation: Acheter maintenant
 - id: address_title
   translation: Stop By For A visit
 - id: submit
