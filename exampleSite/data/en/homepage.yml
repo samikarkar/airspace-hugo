@@ -45,7 +45,7 @@ funfacts:
     name: Cups Of Coffee
     count: "999"
   - icon: ion-ios-glasses-outline
-    name: Article Written
+    name: Co-authored Articles
     count: "20"
   - icon: ion-ios-compose-outline
     name: Projects Completed
