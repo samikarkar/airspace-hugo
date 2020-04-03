@@ -1,6 +1,6 @@
 ---
 title: Drop Us A Note
-description: this is meta description
+description: We're always looking for new challenges
 bg_image: images/featue-bg.jpg
 menu:
   footer:
