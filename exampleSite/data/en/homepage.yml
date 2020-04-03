@@ -26,14 +26,11 @@ portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
   title: WE BELIEVE IN MULTI-PHYSICS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  content: |+
+    Our range of expertise covers Acoustics, Solid mechanics, Mechanical Meta-materials, Acoustic Meta-materials, Active control, Adaptive systems, Smart Materials and Systems, but also Fluid Mechanics, Atmospheric Physics, Radio-Frequency ElectroMagnetics.
+
+    We develop innovative coupled models, using different scales in space and time/frequency for each physics, when needed. We propose time-domain as well as frequency-domain analysis, modal analysis and stability studies.
+
   button:
     enable: true
     label: View Works
