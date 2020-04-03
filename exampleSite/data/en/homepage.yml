@@ -3,9 +3,8 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   title: R&D Expertise <br/> in Acoustics & Vibrations
-  content: We love to model things, and we love ninnovating. We work closely with
-    our clients to deliver the best possible models to help them develop innovative
-    concepts.
+  content: We love to model things, and we love innovating. We work closely with our
+    clients to deliver the best possible models to help them develop innovative concepts.
   button:
     enable: true
     label: Discover Our Previous Projects
