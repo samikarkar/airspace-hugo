@@ -19,32 +19,10 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 1
-#[[menu.main]]
-#URL = "faq"
-#name = "FAQ"
-#parent = "Pages"
-#weight = 2
-#[[menu.main]]
-#URL = "pricing"
-#name = "Pricing"
-#parent = "Pages"
-#weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 6
-#[[menu.main]]
-#hasChildren = true
-#name = "Pages"
-#weight = 5
-#[[menu.main]]
-#URL = "blog"
-#name = "Blog"
-#weight = 4
-#[[menu.main]]
-#URL = "service"
-#name = "Service"
-#weight = 3
 [[menu.main]]
 URL = "project"
 name = "Model Gallery"
@@ -56,19 +34,12 @@ weight = 1
 [params]
 author = "Sami Karkar"
 contact_form_action = "mailto::sami.karkar@free.fr"
-description = "This is meta description"
+description = ""
 email = "sami.karkar@free.fr"
 google_analitycs_id = ""
 location = "Paris 17e"
 logo = "images/logo.png"
-#mobile = "0124857985320"
 multi_author = false
-#[params.gmap]
-#enable = true
-#gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-#map_latitude = "51.5223477"
-#map_longitude = "-0.1622023"
-#map_marker = "images/marker.png"
 [params.nav_button]
 enable = true
 label = "Demander un devis"
@@ -99,11 +70,8 @@ preloader = ""
 [params.search]
 enable = true
 [[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
-[[params.social]]
 icon = "ion-social-linkedin-outline"
-link = "#"
+link = "https://www.linkedin.com/in/sami-karkar-37414080/"
 [[params.social]]
 icon = "ion-social-pinterest-outline"
 link = "#"
