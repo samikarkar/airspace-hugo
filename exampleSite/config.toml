@@ -5,14 +5,14 @@ paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
 title = "Sami Karkar | R&D Expertise in Acoustics & Vibrations"
-[Languages.en]
+[Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "FR"
 weight = "1"
-[Languages.fr]
+[Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
 home = "Home"
